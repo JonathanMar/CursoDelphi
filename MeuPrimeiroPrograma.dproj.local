@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/11 22:40:37.000.215,=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:43:14.000.715,C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\src\View\MeuPrimeiroPrograma.View.Principal.pas</Transaction>
+    <Transaction>2022/07/11 22:43:14.000.715,C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\src\View\MeuPrimeiroPrograma.View.Principal.dfm</Transaction>
+    <Transaction>2022/07/11 22:43:51.000.138,C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\MeuPrimeiroPrograma.dproj</Transaction>
+    <Transaction>2022/07/11 22:55:52.000.234,=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/07/11 22:56:32.000.586,C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\Unit1.pas=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\src\View\MeuPrimeiroPrograma.View.CadastroPadrao.pas</Transaction>
+    <Transaction>2022/07/11 22:56:32.000.586,C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\Unit1.dfm=C:\Users\jonat\OneDrive\Documentos\Embarcadero\Studio\Projects\CursoDelphi\src\View\MeuPrimeiroPrograma.View.CadastroPadrao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
